@@ -1,3 +1,5 @@
 input/
+result/
+model/
 labels/
 3-2_DataLoader.ipynb 
