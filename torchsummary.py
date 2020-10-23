@@ -9,7 +9,7 @@ import numpy as np
 def summary(model, input_size, batch_size=-1, device=torch.device('cuda:0'), dtypes=None):
     result, params_info = summary_string(
         model, input_size, batch_size, device, dtypes)
-    print(result)
+    #print(result)
 
     return params_info
 
