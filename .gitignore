@@ -1,6 +1,7 @@
 input/
 result/
 model/
+test/
 labels/
 3-2_DataLoader.ipynb
 3-8_PSPNet_inference_appendix.ipynb 
